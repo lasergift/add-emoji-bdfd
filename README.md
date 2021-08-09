@@ -1,2 +1,1 @@
-# add-emoji-bdfd
-1
+Ceci est une commande marchant que sur bdfd !
